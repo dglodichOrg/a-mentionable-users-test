@@ -4,6 +4,7 @@ An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
 test change
 
 ## Try me!
+a change by tuxedoshrimpuser
 
 ```
 brew tap srcclr/srcclr
